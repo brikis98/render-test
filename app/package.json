@@ -1,0 +1,15 @@
+{
+  "name": "render-test",
+  "version": "0.0.1",
+  "description": "Sample app for testing Render.com",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yevgeniy Brikman",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
